@@ -1,14 +1,19 @@
-body {
-    
-}
 
 #hello {
-    font-family: "Helvetica", Neue, Bold, 28pt;
+    font-family: Helvetica, Neue;
     color: #3D3D3D;
+    font-size: 28px;
+    font-weight: Bold;
+    margin-bottom: 0px;
+    margin-top: 35px;
+    
 }
 #web-designer {
-    font-family: "Helvetica", Neue, Light, 28pt;
+    font-family: Helvetica, Neue;
     color: #3D3D3D;
+    font-size: 28px;
+    font-weight: 300;
+    
 }
 
 
@@ -18,11 +23,13 @@ body {
 }
 
 .header {
-    margin: 20px;
+    margin: 30px;
 }
 
 #hero {
     width: 100%;
-    height: 400px;
-    margin-right: 0;
+    height: 360px;
+
+
+    
 }
