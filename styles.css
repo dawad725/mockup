@@ -1,0 +1,28 @@
+body {
+    
+}
+
+#hello {
+    font-family: "Helvetica", Neue, Bold, 28pt;
+    color: #3D3D3D;
+}
+#web-designer {
+    font-family: "Helvetica", Neue, Light, 28pt;
+    color: #3D3D3D;
+}
+
+
+#logo {
+    width: 175px;
+    height: 100px;
+}
+
+.header {
+    margin: 20px;
+}
+
+#hero {
+    width: 100%;
+    height: 400px;
+    margin-right: 0;
+}
