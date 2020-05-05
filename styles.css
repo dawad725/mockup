@@ -3,7 +3,6 @@
   min-height: 100vh;
 }
 
-
 #hello {
     font-family: Helvetica, Neue;
     color: #3D3D3D;
@@ -16,12 +15,13 @@
     font-family: Helvetica, Neue;
     color: #3D3D3D;
     font-size: 28px;
-    font-weight: 300;
+    font-weight: 100;
 }
 
 #logo {
     width: 175px;
     height: 100px;
+    padding-top: 15px;
 }
 
 .header {
